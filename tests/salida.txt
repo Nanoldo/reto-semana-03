@@ -1,0 +1,11 @@
+producto,unidades_vendidas,ingreso_total,precio_promedio
+Monitor_Curvo_WD,17,287400.13,16905.89
+Procesador_Dell,9,78308.55,8700.95
+Chromebook_HyperX,7,60860.03,8694.29
+NAS_Canon,5,33399.10,6679.82
+RAM_Seagate,16,25470.88,1591.93
+Bocina_Bluetooth_HP,11,20018.90,1819.90
+Chromebook_Razer,2,17674.74,8837.37
+HDD_HP,9,14967.18,1663.02
+Teclado_Gaming_Lenovo,2,2746.68,1373.34
+RAM_Corsair,1,2301.83,2301.83

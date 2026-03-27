@@ -1,0 +1,11 @@
+fecha,producto,cantidad,precio_unitario
+2026-01-11,Procesador_Dell,9,8700.95
+2026-01-04,Monitor_Curvo_WD,17,16905.89
+2026-01-03,HDD_HP,9,1663.02
+2026-01-17,Chromebook_Razer,2,8837.37
+2026-01-05,Bocina_Bluetooth_HP,11,1819.90
+2026-01-13,RAM_Seagate,16,1591.93
+2026-01-22,NAS_Canon,5,6679.82
+2026-01-02,Teclado_Gaming_Lenovo,2,1373.34
+2026-01-05,Chromebook_HyperX,7,8694.29
+2026-01-30,RAM_Corsair,1,2301.83
