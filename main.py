@@ -1,4 +1,5 @@
 import sys
+import math
 
 def main():
     # Diccionario para agrupar por producto
@@ -31,6 +32,9 @@ def main():
         try:
             cantidad = int(partes[2])
             precio = float(partes[3])
+            if not math.isfinite(precio):
+                continue  # Ignorar precios no finitos
+        
         except ValueError:
             continue  # Ignorar si no son numeros validos
         
